@@ -3,7 +3,7 @@
 ## Find me around : 
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-YatishChandra-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatishchandraemmani/)
-
+![](https://komarev.com/ghpvc/?username=Yatish-Chandra&color=brightgreen)
 ## :zap: Github Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatish-Chandra&theme=cobalt&langs_count=10&layout=compact) 
