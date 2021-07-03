@@ -2,7 +2,7 @@
 
 ## Find me around : 
 
-[![dev.to badge](https://img.shields.io/badge/linkedin-Yatish Chandra-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatishchandraemmani/)
+[![dev.to badge](https://img.shields.io/badge/linkedin-YatishChandra-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatishchandraemmani/)
 
 ## :zap: Github Stats :
 
