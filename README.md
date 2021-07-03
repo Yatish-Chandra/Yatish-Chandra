@@ -2,12 +2,12 @@
 
 ## Find me around : 
 
-[![dev.to badge](https://img.shields.io/badge/linkedin-srikarakkina-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatishchandraemmani/)
+[![dev.to badge](https://img.shields.io/badge/linkedin-Yatish Chandra-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatishchandraemmani/)
 
 ## :zap: Github Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkinasrikar&theme=cobalt&langs_count=10&layout=compact) 
-![Github stats](https://github-readme-stats.vercel.app/api?username=akkinasrikar&theme=calm&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatish-Chandra&theme=cobalt&langs_count=10&layout=compact) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yatish-Chandra&theme=calm&show_icons=true&count_private=true)
 
 ## :trophy: Github Awards :
 
