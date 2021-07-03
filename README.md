@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm 👋 [Yatish Chandra](https://github.com/Yatish-Chandra)
 
-<!--
-**Yatish-Chandra/Yatish-Chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find me around : 
 
-Here are some ideas to get you started:
+[![dev.to badge](https://img.shields.io/badge/linkedin-srikarakkina-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatishchandraemmani/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :zap: Github Stats :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkinasrikar&theme=cobalt&langs_count=10&layout=compact) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=akkinasrikar&theme=calm&show_icons=true&count_private=true)
+
+## :trophy: Github Awards :
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yatish-Chandra&label=Profile%20views&color=0e75b6&style=flat" alt="Yatish-Chandra" /> </p>
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://github-profile-trophy.vercel.app/?username=Yatish-Chandra&theme=chalk&margin-w=15" alt="Yatish-Chandra" />
+	</a> 
+</p>
+
+![Metrics](https://metrics.lecoq.io/Yatish-Chandra)
+
+ <hr>
+
+![my github activity graph](https://activity-graph.herokuapp.com/graph?username=Yatish-Chandra&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+
+<hr>
